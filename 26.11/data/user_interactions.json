@@ -1,0 +1,477 @@
+[
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:53.097698"
+  },
+  {
+    "perfume_id": "api_dior_addict_2_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:54.943718"
+  },
+  {
+    "perfume_id": "api_bonne_etoile_baby_dior_unisex",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:36:57.191559"
+  },
+  {
+    "perfume_id": "api_miss_dior_2012_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:18.103802"
+  },
+  {
+    "perfume_id": "api_dior_homme_2005_for_men",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:19.366670"
+  },
+  {
+    "perfume_id": "api_dior_miss_dior_blooming_bouquet_bobby_limited_edition_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:21.251267"
+  },
+  {
+    "perfume_id": "api_dior_addict_eau_sensuelle_for_women",
+    "interaction_type": "add_to_inventory",
+    "timestamp": "2025-11-26T09:51:22.177202"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:13:37.100778"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:13:37.284606"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:18:56.631422"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:18:56.751061"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:20:34.231657"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:34.336020"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:49.835085"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T11:20:49.879313"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T11:20:50.011583"
+  },
+  {
+    "perfume_id": "api_dior_dior_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T13:00:48.281455"
+  },
+  {
+    "perfume_id": "api_dior_dior_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T13:00:48.358980"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:07:18.663572"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:07:18.767830"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:34:34.382162"
+  },
+  {
+    "perfume_id": "api_valentino_valentina",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:42:30.772750"
+  },
+  {
+    "perfume_id": "api_valentino_valentina",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:42:30.887085"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:46:35.965194"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:46:36.056329"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:48:37.512552"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:48:37.635351"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:52:31.935663"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:52:32.009199"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T14:57:42.078468"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T14:57:42.149837"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:03:48.160699"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:04:09.348591"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:04:09.465831"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:08:00.414167"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:08:00.561595"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:08:08.030326"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:08:08.095579"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:13:47.456727"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:13:47.615183"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:19:09.942426"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:19:10.100794"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:22:13.866909"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:22:14.026994"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:26:42.324591"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:26:42.522717"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:28:24.015253"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:28:24.190750"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:29:17.307428"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:29:17.400877"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:31:19.336556"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:31:19.482587"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:31:33.673481"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:31:33.710801"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:31:33.883882"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:42:38.082514"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:42:38.227269"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:47:16.669155"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:47:16.792692"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:48:54.397805"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:48:54.495099"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:49:52.862199"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:49:52.978744"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:50:39.330585"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:50:39.404351"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:52:06.766981"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:52:06.888185"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:53:24.547362"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:53:24.670844"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:55:09.199234"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:55:09.315521"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:56:29.698982"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:56:29.830289"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:57:49.951286"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:57:50.085576"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T15:59:06.151512"
+  },
+  {
+    "perfume_id": "api_so_givenchy_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T15:59:06.230896"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:00:20.755159"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:20.903491"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:28.311976"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:00:28.352832"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:28.461193"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:49.394094"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:00:49.443718"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:49.568818"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:51.189193"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:00:51.225582"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:51.298718"
+  },
+  {
+    "perfume_id": "api_chanel_n22_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:56.354565"
+  },
+  {
+    "perfume_id": "api_chance_eau_tendre_hair_mist_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:00:56.406905"
+  },
+  {
+    "perfume_id": "api_chance_eau_tendre_hair_mist_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:00:56.520165"
+  },
+  {
+    "perfume_id": "api_tom_ford_tobacco_oud",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:01:49.224239"
+  },
+  {
+    "perfume_id": "api_tom_ford_tobacco_oud",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:01:49.331227"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "click",
+    "timestamp": "2025-11-26T16:02:11.765340"
+  },
+  {
+    "perfume_id": "api_lily_dior_for_women",
+    "interaction_type": "view",
+    "timestamp": "2025-11-26T16:02:11.887311"
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "id": "api_lily_dior_for_women",
+    "name": "Lily Dior for women",
+    "brand": "Dior",
+    "price": 49.0,
+    "size": "50ml",
+    "gender": "Female",
+    "scent_type": "Floral",
+    "description": "A Moderate fragrance with Moderate projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/lily-dior-dior-for-women.jpg",
+    "top_notes": [
+      {
+        "name": "muguet",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Muguet.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Lily-of-the-Valley",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+      },
+      {
+        "name": "Ylang-Ylang",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "Jasmine",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+      },
+      {
+        "name": "Rose",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+      }
+    ],
+    "main_accords": [
+      "white floral",
+      "yellow floral",
+      "fresh",
+      "rose",
+      "floral",
+      "green",
+      "sweet"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 1,
+      "Spring": 1,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 1,
+      "Night": 1
+    },
+    "longevity": "Moderate",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "api_dior_addict_2_for_women",
+    "name": "Dior Addict 2 for women",
+    "brand": "Dior",
+    "price": 49.0,
+    "size": "50ml",
+    "gender": "Female",
+    "scent_type": "Citrus",
+    "description": "A Moderate fragrance with Moderate projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-dior-for-women.jpg",
+    "top_notes": [
+      {
+        "name": "Grapefruit",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+      },
+      {
+        "name": "Freesia",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+      },
+      {
+        "name": "Orange",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+      },
+      {
+        "name": "Bergamot",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Pomegranate",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pomegranate.png"
+      },
+      {
+        "name": "Lotus",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lotus.png"
+      },
+      {
+        "name": "Watermelon",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Watermelon.png"
+      },
+      {
+        "name": "Pineapple",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+      },
+      {
+        "name": "Lily-of-the-Valley",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "White Musk",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+      },
+      {
+        "name": "Cedar",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+      },
+      {
+        "name": "Sandalwood",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+      }
+    ],
+    "main_accords": [
+      "citrus",
+      "floral",
+      "woody",
+      "fresh spicy",
+      "fruity",
+      "aquatic",
+      "ozonic",
+      "sweet"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 1,
+      "Spring": 2,
+      "Summer": 2
+    },
+    "occasion": {
+      "Day": 2,
+      "Night": 1
+    },
+    "longevity": "Moderate",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "api_bonne_etoile_baby_dior_unisex",
+    "name": "Bonne Etoile Baby Dior unisex",
+    "brand": "Dior",
+    "price": 100.0,
+    "size": "50ml",
+    "gender": "Unisex",
+    "scent_type": "Fresh",
+    "description": "A Weak fragrance with Soft projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/bonne-etoile-baby-dior-dior-unisex.jpg",
+    "top_notes": [
+      {
+        "name": "Green Pear",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Pear.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Wild Rose",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Wild%20Rose.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "White Musk",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+      }
+    ],
+    "main_accords": [
+      "musky",
+      "powdery",
+      "animalic",
+      "sweet",
+      "rose"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 1,
+      "Spring": 1,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 1,
+      "Night": 1
+    },
+    "longevity": "Weak",
+    "sillage": "Soft"
+  },
+  {
+    "id": "api_miss_dior_2012_for_women",
+    "name": "Miss Dior 2012 for women",
+    "brand": "Dior",
+    "price": 3.49,
+    "size": "50ml",
+    "gender": "Female",
+    "scent_type": "Fresh",
+    "description": "A Long Lasting fragrance with Strong projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/miss-dior-2012-dior-for-women.jpg",
+    "top_notes": [
+      {
+        "name": "Italian Mandarin",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Mandarin.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Rose",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+      },
+      {
+        "name": "Egyptian Jasmine",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Egyptian%20Jasmine.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "Patchouli",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+      },
+      {
+        "name": "Musk",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+      }
+    ],
+    "main_accords": [
+      "patchouli",
+      "citrus",
+      "rose",
+      "woody",
+      "white floral",
+      "warm spicy",
+      "musky",
+      "earthy",
+      "floral",
+      "balsamic"
+    ],
+    "seasonality": {
+      "Winter": 2,
+      "Fall": 3,
+      "Spring": 1,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 1,
+      "Night": 1
+    },
+    "longevity": "Long Lasting",
+    "sillage": "Strong"
+  },
+  {
+    "id": "api_dior_homme_2005_for_men",
+    "name": "Dior Homme 2005 for men",
+    "brand": "Dior",
+    "price": 50.0,
+    "size": "50ml",
+    "gender": "Male",
+    "scent_type": "Fresh",
+    "description": "A Long Lasting fragrance with Moderate projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-2005-dior-for-men.jpg",
+    "top_notes": [
+      {
+        "name": "Lavender",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+      },
+      {
+        "name": "Bergamot",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+      },
+      {
+        "name": "Sage",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Iris",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+      },
+      {
+        "name": "Cacao",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+      },
+      {
+        "name": "Amber",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+      },
+      {
+        "name": "Cardamom",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "Leather",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+      },
+      {
+        "name": "Tahitian Vetiver",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tahitian%20Vetiver.png"
+      },
+      {
+        "name": "Patchouli",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+      }
+    ],
+    "main_accords": [
+      "iris",
+      "warm spicy",
+      "aromatic",
+      "earthy",
+      "cacao",
+      "powdery",
+      "woody",
+      "lavender",
+      "violet",
+      "leather",
+      "gourmand"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 2,
+      "Spring": 1,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 1,
+      "Night": 1
+    },
+    "longevity": "Long Lasting",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "api_dior_miss_dior_blooming_bouquet_bobby_limited_edition_for_women",
+    "name": "Dior Miss Dior Blooming Bouquet Bobby Limited Edition for women",
+    "brand": "Dior",
+    "price": 100.0,
+    "size": "50ml",
+    "gender": "Female",
+    "scent_type": "Fresh",
+    "description": "A Moderate fragrance with Moderate projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-miss-dior-blooming-bouquet-bobby-limited-edition-dior-for-women.jpg",
+    "top_notes": [
+      {
+        "name": "Mandarin Orange",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Pink Peony",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Peony.png"
+      },
+      {
+        "name": "Apricot",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apricot.png"
+      },
+      {
+        "name": "Peach",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+      },
+      {
+        "name": "Damask Rose",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Damask%20Rose.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "White Musk",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+      }
+    ],
+    "main_accords": [
+      "rose",
+      "fruity",
+      "floral",
+      "fresh",
+      "powdery",
+      "citrus",
+      "musky",
+      "sweet",
+      "lactonic"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 1,
+      "Spring": 2,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 2,
+      "Night": 1
+    },
+    "longevity": "Moderate",
+    "sillage": "Moderate"
+  },
+  {
+    "id": "api_dior_addict_eau_sensuelle_for_women",
+    "name": "Dior Addict Eau Sensuelle for women",
+    "brand": "Dior",
+    "price": 49.0,
+    "size": "50ml",
+    "gender": "Female",
+    "scent_type": "Fresh",
+    "description": "A Moderate fragrance with Moderate projection.",
+    "image_url": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-eau-sensuelle-dior-for-women.jpg",
+    "top_notes": [
+      {
+        "name": "Rose",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+      }
+    ],
+    "heart_notes": [
+      {
+        "name": "Jasmine",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+      }
+    ],
+    "base_notes": [
+      {
+        "name": "Musk",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+      },
+      {
+        "name": "Cedar",
+        "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+      }
+    ],
+    "main_accords": [
+      "rose",
+      "musky",
+      "white floral",
+      "floral",
+      "powdery",
+      "woody"
+    ],
+    "seasonality": {
+      "Winter": 1,
+      "Fall": 1,
+      "Spring": 1,
+      "Summer": 1
+    },
+    "occasion": {
+      "Day": 1,
+      "Night": 1
+    },
+    "longevity": "Moderate",
+    "sillage": "Moderate"
+  }
+]
